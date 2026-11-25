@@ -1,0 +1,8 @@
+Programs/*.exe
+Programs/*.dbg
+Programs/*.prn
+Programs/*.err
+AppSrc/*.prn
+AppSrc/*.err
+*.log
+*.loc
